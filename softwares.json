@@ -1,0 +1,28 @@
+[
+    {
+        "package": "kubeflow",
+        "type": "binary",
+        "url": "uploaded",
+        "version": "v1.9.0"
+    },
+    {
+        "package": "openldap",
+        "type": "binary",
+        "url": "uploaded"
+    },
+    {
+        "package": "dex",
+        "url": "ghcr.io/dexidp/dex",
+        "tag": "v2.39.1",
+        "type": "image"
+    },
+    {
+        "package": "roce-test",
+        "url": "docker.io/roman8rcm/roce-test",
+        "tag": "229.2.32.0",
+        "type": "image",
+        "username": "docker",
+        "access_token": "docker1234"
+    }
+]
+
