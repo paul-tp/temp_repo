@@ -35,6 +35,11 @@
         "package": "roce-test",
         "url": "docker.io/roman8rcm/roce-test",
         "type": "image"
+    },
+    {
+        "package": "openldap-url",
+        "type": "binary",
+        "url": "http://github.com/openldap"
     }
 ]
 
