@@ -23,23 +23,6 @@
         "type": "image",
         "username": "docker",
         "access_token": "docker1234"
-    },
-    {
-        "package": "roce-test1",
-        "tag": "229.2.32.0",
-        "type": "image",
-        "username": "docker",
-        "access_token": "docker1234"
-    },
-    {
-        "package": "roce-test",
-        "url": "docker.io/roman8rcm/roce-test",
-        "type": "image"
-    },
-    {
-        "package": "openldap-url",
-        "type": "binary",
-        "url": "http://github.com/openldap"
     }
 ]
 
