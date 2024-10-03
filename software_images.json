@@ -1,9 +1,4 @@
-[ {
-        "package": "dex",
-        "url": "ghcr.io/dexidp/dex",
-        "tag": "v2.39.1",
-        "type": "image"
-    },
+[ 
     {
         "package": "roce-test",
         "url": "docker.io/roman8rcm/roce-test",
