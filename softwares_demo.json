@@ -1,0 +1,14 @@
+[
+    {
+        "package": "jupyterhub_helm_chart",
+        "type": "binary",
+        "url": "https://jupyterhub.github.io/helm-chart/jupyterhub-3.2.0.tgz",
+        "version": "v3.2.0"
+    },
+  {
+        "package": "istio",
+        "type": "binary",
+        "url": "https://github.com/istio/istio/releases/download/1.20.4/istio-1.20.4-linux-amd64.tar.gz",
+        "version": "v1.20.4"
+    }
+]
