@@ -15,6 +15,7 @@
         "package": "dex",
         "url": "ghcr.io/dexidp/dex:latest",
         "type": "image"
+         "tag": "latest"
     },
     {
         "package": "knative_apiserver_receive_adapter",
