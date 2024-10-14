@@ -11,6 +11,11 @@
         "tag": "v2.39.1",
         "type": "image"
     },
+     {
+        "package": "dex",
+        "url": "ghcr.io/dexidp/dex:latest",
+        "type": "image"
+    }
     {
         "package": "knative_apiserver_receive_adapter",
         "url": "gcr.io/knative-releases/knative.dev/eventing/cmd/apiserver_receive_adapter@sha256:4ed3e39a11f4fc3358787433beaea4a9e72773ea7710bf4beb95aa8770515c9e",
