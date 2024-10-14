@@ -14,7 +14,7 @@
      {
         "package": "dex",
         "url": "ghcr.io/dexidp/dex:latest",
-        "type": "image"
+        "type": "image",
          "tag": "latest"
     },
     {
