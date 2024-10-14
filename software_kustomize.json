@@ -3,6 +3,6 @@
         "package": "kustomize",
         "type": "binary",
         "url": "uploaded",
-        "version": "v4.5.5"
+        "version": "5.5.0"
     }
 ]
