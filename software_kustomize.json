@@ -4,5 +4,11 @@
         "type": "binary",
         "url": "uploaded",
         "version": "5.5.0"
+    },
+    {
+        "package": "openldap",
+        "type": "binary",
+        "url": "uploaded",
+        "version": "2.0.0"
     }
 ]
