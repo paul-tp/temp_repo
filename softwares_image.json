@@ -1,11 +1,5 @@
 [
     {
-        "package": "jupyterhub_helm_chart",
-        "type": "binary",
-        "url": "https://jupyterhub.github.io/helm-chart/jupyterhub-3.2.0.tgz",
-        "version": "v3.2.0"
-    },
-    {
         "package": "dex",
         "url": "ghcr.io/dexidp/dex:v2.39.1",
         "tag": "v2.39.1",
