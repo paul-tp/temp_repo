@@ -10,5 +10,11 @@
         "type": "binary",
         "url": "https://github.com/istio/istio/releases/download/1.20.4/istio-1.20.4-linux-amd64.tar.gz",
         "version": "v1.20.4"
+    },
+     {
+        "package": "openldap",
+        "type": "binary",
+        "url": "uploaded",
+        "version": "2.0.0"
     }
 ]
