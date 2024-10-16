@@ -1,2 +1,14 @@
 [
+    {
+        "package": "python",
+        "type": "binary",
+        "url": "uploaded",
+        "version": "3.11.3"
+    },
+    {
+        "package": "make",
+        "type": "binary",
+        "url": "uploaded",
+        "version": "4.3"
+    }
 ]
