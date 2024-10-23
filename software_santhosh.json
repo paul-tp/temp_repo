@@ -1,1 +1,9 @@
 
+[
+    {
+        "package": "keycloak",
+        "type": "binary",
+        "url": "uploaded",
+        "version": "22.2.6"
+    }
+]
