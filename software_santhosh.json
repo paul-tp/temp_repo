@@ -5,5 +5,23 @@
         "type": "binary",
         "url": "uploaded",
         "version": "22.2.6"
+    },
+    {
+        "package": "docker.io/bitnami/keycloak",
+        "url": "docker.io/bitnami/keycloak@sha256:f9c6583ae2b5079824b35f13ecef3ad96e90af185b8df7ae0b686e83c33e257b",
+        "digest": "f9c6583ae2b5079824b35f13ecef3ad96e90af185b8df7ae0b686e83c33e257b",
+        "type": "image"
+    },
+    {
+        "package": "docker.io/bitnami/os-shell",
+        "url": "docker.io/bitnami/os-shell@sha256:196fd17303203b1d838572472e0dd6820a019db659fa7cdae4b8af809a0c8390",
+        "digest": "196fd17303203b1d838572472e0dd6820a019db659fa7cdae4b8af809a0c8390",
+        "type": "image"
+    },
+    {
+        "package": "docker.io/bitnami/postgresql",
+        "url": "docker.io/bitnami/postgresql@sha256:75c5d322fd11bb10a0e4ddebf4ab312aa9ec2bbcf2b64986f7d87127483e2b14",
+        "digest": "75c5d322fd11bb10a0e4ddebf4ab312aa9ec2bbcf2b64986f7d87127483e2b14",
+        "type": "image"
     }
 ]
